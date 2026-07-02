@@ -1,6 +1,6 @@
 # Corporate Talent & Payroll Management System
 
-##Description 
+## Description 
 A Python application that calculates employee bonuses, taxes, and net salary based on performance ratings.
 
 ## Features
